@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: block;
+}
+
+.headText {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.sendButton {
+  margin-top: 15px;
+}
+
+.container .title {
+  margin-bottom: 10px;
+}
+.container .details {
+  margin-bottom: 10px;
+}
